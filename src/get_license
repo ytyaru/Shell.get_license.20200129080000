@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -Ceu
+Run() { # $1: license_id
+	local HERE="$(cd "$(dirname "${BASH_SOURCE:-$0}")"; pwd -P)"
+	"$HERE/spdx/get_license.sh" "$@"
+}
+Run "$@"

@@ -1,0 +1,25 @@
+{
+  "key": "postgresql",
+  "name": "PostgreSQL License",
+  "spdx_id": "PostgreSQL",
+  "url": "https://api.github.com/licenses/postgresql",
+  "node_id": "MDc6TGljZW5zZTMx",
+  "html_url": "http://choosealicense.com/licenses/postgresql/",
+  "description": "A very short, BSD-style license, used specifically for PostgreSQL.",
+  "implementation": "To use it, say that it is The PostgreSQL License, and then substitute the copyright year and name of the copyright holder into the body of the license. Then put the license into a prominent file (\"COPYRIGHT\", \"LICENSE\" or \"COPYING\" are common names for this file) in your software distribution.",
+  "permissions": [
+    "commercial-use",
+    "modifications",
+    "distribution",
+    "private-use"
+  ],
+  "conditions": [
+    "include-copyright"
+  ],
+  "limitations": [
+    "liability",
+    "warranty"
+  ],
+  "body": "PostgreSQL License\n\nCopyright (c) [year], [fullname]\n\nPermission to use, copy, modify, and distribute this software and its\ndocumentation for any purpose, without fee, and without a written agreement is\nhereby granted, provided that the above copyright notice and this paragraph\nand the following two paragraphs appear in all copies.\n\nIN NO EVENT SHALL [fullname] BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT,\nSPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING\nOUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF [fullname]\nHAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n[fullname] SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT\nLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A\nPARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN \"AS IS\" BASIS,\nAND [fullname] HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES,\nENHANCEMENTS, OR MODIFICATIONS.\n",
+  "featured": false
+}
